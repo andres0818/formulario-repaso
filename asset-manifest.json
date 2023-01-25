@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/formulario-repaso/static/css/main.2beb4482.css",
+    "main.js": "/formulario-repaso/static/js/main.2395bd96.js",
+    "index.html": "/formulario-repaso/index.html",
+    "main.2beb4482.css.map": "/formulario-repaso/static/css/main.2beb4482.css.map",
+    "main.2395bd96.js.map": "/formulario-repaso/static/js/main.2395bd96.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2beb4482.css",
+    "static/js/main.2395bd96.js"
+  ]
+}
